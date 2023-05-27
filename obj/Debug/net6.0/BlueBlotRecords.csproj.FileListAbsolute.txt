@@ -1,0 +1,181 @@
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\appsettings.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.staticwebassets.runtime.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.exe
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.deps.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.runtimeconfig.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.dll
+C:\Users\kzhuk\Downloads\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.pdb
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.AssemblyReference.cache
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfoInputs.cache
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfo.cs
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.CoreCompileInputs.cache
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cache
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cs
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\scopedcss\bundle\BlueBlotRecords.styles.css
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\scopedcss\projectbundle\BlueBlotRecords.bundle.scp.css
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.dll
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\refint\BlueBlotRecords.dll
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.pdb
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.genruntimeconfig.cache
+C:\Users\kzhuk\Downloads\BlueBlotRecords\obj\Debug\net6.0\ref\BlueBlotRecords.dll
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\appsettings.Development.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\appsettings.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.staticwebassets.runtime.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.exe
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.deps.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.runtimeconfig.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.dll
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.pdb
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.AssemblyReference.cache
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfoInputs.cache
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfo.cs
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.CoreCompileInputs.cache
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.MvcApplicationPartsAssemblyInfo.cache
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cache
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cs
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.build.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.development.json
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\scopedcss\bundle\BlueBlotRecords.styles.css
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\scopedcss\projectbundle\BlueBlotRecords.bundle.scp.css
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.dll
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\refint\BlueBlotRecords.dll
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.pdb
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.genruntimeconfig.cache
+D:\school\3 курс\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\ref\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\appsettings.Development.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\appsettings.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.staticwebassets.runtime.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.exe
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.deps.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.runtimeconfig.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.pdb
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.AssemblyReference.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfoInputs.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfo.cs
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.CoreCompileInputs.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.MvcApplicationPartsAssemblyInfo.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cs
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.build.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.development.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\scopedcss\bundle\BlueBlotRecords.styles.css
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\scopedcss\projectbundle\BlueBlotRecords.bundle.scp.css
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\refint\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.pdb
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.genruntimeconfig.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\ref\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Humanizer.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.CopyComplete
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\appsettings.Development.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\appsettings.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.staticwebassets.runtime.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.exe
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.deps.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.runtimeconfig.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\BlueBlotRecords.pdb
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Humanizer.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.AssemblyReference.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfoInputs.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.AssemblyInfo.cs
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.CoreCompileInputs.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.MvcApplicationPartsAssemblyInfo.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.RazorAssemblyInfo.cs
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets\msbuild.BlueBlotRecords.Microsoft.AspNetCore.StaticWebAssets.props
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets\msbuild.build.BlueBlotRecords.props
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlueBlotRecords.props
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlueBlotRecords.props
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.pack.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.build.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\staticwebassets.development.json
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\scopedcss\bundle\BlueBlotRecords.styles.css
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\scopedcss\projectbundle\BlueBlotRecords.bundle.scp.css
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.csproj.CopyComplete
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\refint\BlueBlotRecords.dll
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.pdb
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\BlueBlotRecords.genruntimeconfig.cache
+D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\obj\Debug\net6.0\ref\BlueBlotRecords.dll

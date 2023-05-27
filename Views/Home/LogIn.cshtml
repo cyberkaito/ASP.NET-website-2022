@@ -1,0 +1,35 @@
+﻿@model BlueBlotRecords.Models.LoginModel
+@{
+    ViewBag.Title = "Home";
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <div class="container-fluid" id="LogInAlert">
+        <div class="row justify-content-center">
+            <form asp-antiforgery="true" asp-action="SignIn" asp-controller="Home" class="col-4 text-center px-4" >
+                <div class="form-floating">
+                    <input asp-for="Login" type="email" class="form-control" id="EmailInput" placeholder="name@example.com">
+                    <label for="EmailInput" class="px-3 text-dark">Email address</label>
+                </div>
+                <div class="form-floating my-3">
+                    <input asp-for="Password" type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                    <label for="floatingPassword" class="px-3 text-dark">Password</label>
+                </div>
+                <button class="w-100 btn btn-lg btn-primary" type="submit">Log In</button>
+            </form>
+        </div>
+    </div>
+    <div id="liveAlertPlaceholder" class="col-4 text-center px-2 py-2">
+        <a href="" id="closeAlert">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
+            </svg>
+        </a>
+        <p id="liveAlertPlaceholder_msg">Application successfully send! We'll contact you by mail.</p>
+    </div>
+</body>
+</html>

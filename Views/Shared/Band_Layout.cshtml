@@ -1,0 +1,127 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor
+<html lang="en">
+    <head>
+        <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="~/css/site.css" rel="stylesheet" type="text/css"/>
+        <link rel="icon" href="~/img/tabIcon.jpg">
+        <meta name="viewport" content="width=device-width" />
+        <title>BlueBlot | @ViewBag.Title</title>
+    </head>
+    <body> 
+        
+        <nav class="navbar bg-dark navbar-expand-lg fixed-top">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse px-5" id="navbarSupportedContent">
+                  <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
+                    <li class="nav-item">
+                      <a asp-action="Index" asp-controller="Home" class="nav-link active" aria-current="page">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Rock</a>
+                      <ul class="dropdown-menu bg-dark">
+                        <li><a class="dropdown-item" asp-action="HardRock" asp-controller="Rock">Hard Rock</a></li>
+                        <li><a class="dropdown-item" asp-action="SoftRock" asp-controller="Rock">Soft Rock</a></li>
+                        <li><a class="dropdown-item" asp-action="Psychedelic" asp-controller="Rock">Psychedelic</a></li>
+                        <li><a class="dropdown-item" asp-action="Stoner" asp-controller="Rock">Stoner</a></li>
+                        <li><a class="dropdown-item" asp-action="Gothic" asp-controller="Rock">Gothic</a></li>
+                        <li><a class="dropdown-item" asp-action="Progressive" asp-controller="Rock">Progressive</a></li>
+                        <li><a class="dropdown-item" asp-action="Alternative" asp-controller="Rock">Alternative</a></li>
+                      </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Metal</a>
+                      <ul class="dropdown-menu bg-dark">
+                        <li><a class="dropdown-item" asp-action="Heavy" asp-controller="Metal">Heavy</a></li>
+                        <li><a class="dropdown-item" asp-action="Power" asp-controller="Metal">Power</a></li>
+                        <li><a class="dropdown-item" asp-action="Metalcore" asp-controller="Metal">Metalcore</a></li>
+                        <li><a class="dropdown-item" asp-action="Doom" asp-controller="Metal">Doom</a></li>
+                        <li><a class="dropdown-item" asp-action="Death" asp-controller="Metal">Death</a></li>
+                        <li><a class="dropdown-item" asp-action="Gothic" asp-controller="Metal">Gothic</a></li>
+                        <li><a class="dropdown-item" asp-action="Black" asp-controller="Metal">Black</a></li>
+                        <li><a class="dropdown-item" asp-action="Speed" asp-controller="Metal">Speed</a></li>
+                        <li><a class="dropdown-item" asp-action="Trash" asp-controller="Metal">Trash</a></li>
+                        <li><a class="dropdown-item" asp-action="Symphonic" asp-controller="Metal">Symphonic</a></li>
+                      </ul>
+                    </li>
+                    @{
+                        if (HttpContextAccessor.HttpContext.Session.Keys.Contains("AuthUser"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="LogOut" asp-controller="Home">Log Out</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="JoinIn" asp-controller="Home">Join In</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-action="LogIn" asp-controller="Home" class="nav-link" id="alertLogIn">Log In</a>
+                            </li>
+                        }
+                    }
+                  </ul>
+                </div>
+            </div>
+        </nav>
+    <div class="container-fluid my-5" id="div_band">
+        <div class="d-flex flex-row flex-wrap justify-content-between">
+            <div class="col-lg-2 col-md-9">
+                <div class="row">
+                    <p class="tx-shadow-b">Genres: <span class="animation my-0 px-2">Heavy, Speed Metal</span></p>
+                </div>
+                <div class="row">
+                    <p class="tx-shadow-b">Country:<span class="tx-shadow-r"></span></p>
+                </div>
+                <div class="row">
+                    <p class="tx-shadow-b">Members:<span class="tx-shadow-r"></span></p>
+                </div>
+                <div class="row">
+                    <p class="tx-shadow-b">Website:<span class="tx-shadow-r"></span></p>
+                </div>
+                 <div class="row">
+                    <p class="tx-shadow-b">Count of albums:<span class="tx-shadow-r"></span></p>
+                </div>
+                <div class="row">
+                    <form id="mailing">
+                  <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                  </div>
+                  <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">I' agree to recieve emails</label>
+                  </div>
+                  <button type="submit" class="btn btn-primary">Subscribe on @ViewBag.Title</button>
+                </form>
+                </div>
+            </div>
+            <div class="col-lg-9" id="bio">
+                <div class="row text-center">
+                    <h2 class="tx-shadow-b">Biography</h2>
+                </div>
+                <div class="row">
+                    <p class="tx-shadow-r">Accept's beginnings can be traced back to 1968 when Udo Dirkschneider and Michael Wagener formed a local band called Band X, which eventually changed its name to Accept, influenced by a record of the same name by Chicken Shack. For many years, Accept went through numerous line-up changes. This instability essentially kept the band on an amateur level, making sporadic appearances in festival concerts. Accept's professional career began in 1976, with Udo Dirkschneider, Wolf Hoffmann, Gerhard Wahl, Peter Baltes, and Frank Friedrich, when they were invited to play at one of the first rock and roll festivals in Germany — Rock am Rhein. Following the festival the band were offered a recording deal. Their first recording was the self-titled Accept album, which was released in 1979, but did not achieve much commercial success.The first stable line-up of Accept was composed of vocalist Udo Dirkschneider, guitarists Wolf Hoffmann and Gerhard Wahl, bassist Peter Baltes and drummer Frank Friedrich. <br /><br />Friedrich and Wahl quit the band after the release of Accept and were replaced by Stefan Kaufmann and Jörg Fischer. This line-up recorded I'm a Rebel in 1980. The title track originally was written for AC/DC and recorded by the band but never released by them. The album brought some media attention, the band being invited to make a televised appearance. In 1981, their next album, Breaker, was released, and the band employed manager Gaby Hauke. Accept also joined Judas Priest's World Wide Blitz Tour and obtained attention outside of Europe for the first time. Restless and Wild was released in 1982, although Jörg Fischer quit the band a short time before the recording took place. Jan Koemmet was hired as guitarist, but departed from the band before the recording of the album. Restless and Wild saw an evolution in the band's sound, which incorporated characteristics defining the genre later dubbed speed metal. Gaby Hauke was credited as "Deaffy" on two of the tracks.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+        <div class="container-fluid fixed-bottom" id="footer">
+          <footer class="d-flex flex-wrap px-5 justify-content-between align-items-center py-3">
+            <p class="col-md-4 mb-0 text-muted">© 2022 BlueBlot, Inc</p>
+            <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+              <li class="ms-3"><a class="text-muted" href="https://vk.com/vvebcum"><img height="40px" src="~/img/icon-vk.png" /></a></li>
+              <li class="ms-3"><a class="text-muted" href="https://t.me/vvebcum"><img height="40px" src="~/img/icon-tg.png" /></a></li>
+            </ul>
+          </footer>
+        </div>
+        <script src="~/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+        <script src="~/js/site.js" type="text/javascript"></script>
+    </body>
+</html>

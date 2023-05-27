@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BlueBlotRecords.Models.Service>
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewBag.Title = "Home";
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row justify-content-center" id="services">
+        <h1 class="text-center text-white-50">Our Services</h1>
+            <div class="col-lg-8">
+                @foreach(var item in Model){
+                    <div class="card">
+                        <h4 class="card-header">@item.Name</h4>
+                        <div class="card-body text-end">
+                            <p class="card-text text-start">@item.Description</p>
+                            <a href="#" class="btn btn-info text-end disabled">@item.Price €</a>
+                            @if (!HttpContextAccessor.HttpContext.Session.Keys.Contains("AuthUser")){
+                                <a href="#" class="btn btn-primary text-end disabled">Add to cart</a>
+                            }else{
+                                <a href="/Home/AddToCart?ID=@item.IdService" class="btn btn-primary text-end">Add to cart</a>
+                            }
+                            
+                        </div>
+                    </div>
+                }
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>

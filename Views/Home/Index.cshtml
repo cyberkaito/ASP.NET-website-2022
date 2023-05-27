@@ -1,0 +1,48 @@
+@model BlueBlotRecords.Models.BandCard;
+@{
+    ViewBag.Title = "Home";
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+   <div class="container-md" id="bands">
+        <form class="d-flex" id="search">
+            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn bg-white" id="btn_search" type="submit">Search</button>
+        </form>
+        <div class="d-flex justify-content-between flex-row flex-wrap">
+            @for(int i=0; i< Model.band.Count;i++){
+                List<BandArea> result = new List<BandArea>(Model.bandArea.ToList().FindAll(item => item.IdBand == Model.band[i].IdBand));
+                <div class="card text-bg-dark mb-3">
+                    <img src="~/img/bands/@(Model.band[i].NameBand).jpg" class="card-img-top" alt="@(Model.band[i].NameBand)">
+                    <div class="card-body">
+                        <h5 class="card-title">@(Model.band[i].NameBand)</h5>
+                        <p class="card-text">@(Model.band[i].Bio.Split('.')[0])</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item
+                            ">
+                            Genres:<p class="animation my-0 px-2">
+                                @for(int j = 0;j<result.Count;j++)
+                                {
+                                    string str = Model.subGenre.ToList().FindAll(item => item.IdSubgenre == result[j].IdSubgenre).ToList()[0].NameSubgenre;
+                                    if(j != result.Count - 1){
+                                        @(str+", ");
+                                    }else @str;               
+                                }
+                            </p>
+                            </li>
+                        <li class="list-group-item">Country: @(Model.band[i].Country)</li>
+                    </ul>
+                    <div class="card-body text-center">
+                        <a asp-action="@(Model.band[i].NameBand.Replace(" ",""))" asp-controller="Bands" class="card-link text-center">Look out</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

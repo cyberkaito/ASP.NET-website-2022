@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlueBlotRecords
+build_property.RootNamespace = BlueBlotRecords
+build_property.ProjectDir = D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\school\3class\РПМ-Серяк\BlueBlotRecords\BlueBlotRecords
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Bands/Accept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuZHNcQWNjZXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Bands/ACDC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuZHNcQUNEQy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Bands/Motorhead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuZHNcTW90b3JoZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Bands/TheCure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuZHNcVGhlQ3VyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/JoinIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2luSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Black.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcQmxhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Death.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcRGVhdGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Doom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcRG9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Gothic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcR290aGljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Heavy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcSGVhdnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Metalcore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcTWV0YWxjb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Power.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcUG93ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Speed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcU3BlZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Symphonic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcU3ltcGhvbmljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Metal/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0YWxcVHJhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/Alternative.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xBbHRlcm5hdGl2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/Gothic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xHb3RoaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/HardRock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xIYXJkUm9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/Progressive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xQcm9ncmVzc2l2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/Psychedelic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xQc3ljaGVkZWxpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/SoftRock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xTb2Z0Um9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Rock/Stoner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ja1xTdG9uZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Shared/Band_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJhbmRfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Shared/Genres_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEdlbnJlc19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/school/3class/РПМ-Серяк/BlueBlotRecords/BlueBlotRecords/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-95gw2u588d

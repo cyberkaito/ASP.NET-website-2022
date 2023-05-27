@@ -1,0 +1,725 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlueBlotRecords.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlueBlotRecords.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\fonts\\Vinque Rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vinque Rg.ttf"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Mask group (1).jpg",
+      "PackagePath": "staticwebassets\\img\\Mask group (1).jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Black\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Black\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Black\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Black\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Black\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Black\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Death\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Death\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Death\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Death\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Death\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Death\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Death\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Death\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Doom\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Doom\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Doom\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Doom\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Doom\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Doom\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Doom\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Doom\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Gothic\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Gothic\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Gothic\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Gothic\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Gothic\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Gothic\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Gothic\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Gothic\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Heavy\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Heavy\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Heavy\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Heavy\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Heavy\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Heavy\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Heavy\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Heavy\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Metalcore\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Metalcore\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Metalcore\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Metalcore\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Metalcore\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Metalcore\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Metalcore\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Metalcore\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Power\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Power\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Power\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Power\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Power\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Power\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Power\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Power\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Speed\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Speed\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Speed\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Speed\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Speed\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Speed\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Speed\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Speed\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Symphonic\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Symphonic\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Symphonic\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Symphonic\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Symphonic\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Symphonic\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Symphonic\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Symphonic\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Trash\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Trash\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Trash\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Trash\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Trash\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Trash\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Metal\\Trash\\Slider\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\Metal\\Trash\\Slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Alternative\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Alternative\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Alternative\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Alternative\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Alternative\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Alternative\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Gothic\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Gothic\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Gothic\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Gothic\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Gothic\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Gothic\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\HardRock\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\HardRock\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\HardRock\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\HardRock\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\HardRock\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\HardRock\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Progressive\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Progressive\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Progressive\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Progressive\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Progressive\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Progressive\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Psychedelic\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Psychedelic\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Psychedelic\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Psychedelic\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Psychedelic\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Psychedelic\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\SoftRock\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\SoftRock\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\SoftRock\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\SoftRock\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\SoftRock\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\SoftRock\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Stoner\\Slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Stoner\\Slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Stoner\\Slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Stoner\\Slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\Rock\\Stoner\\Slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\Rock\\Stoner\\Slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\bands\\ACDC.jpg",
+      "PackagePath": "staticwebassets\\img\\bands\\ACDC.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\bands\\Accept.jpg",
+      "PackagePath": "staticwebassets\\img\\bands\\Accept.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\bands\\Motorhead.jpg",
+      "PackagePath": "staticwebassets\\img\\bands\\Motorhead.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\bands\\The Cure.jpg",
+      "PackagePath": "staticwebassets\\img\\bands\\The Cure.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\blue-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\blue-bg.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\icon-tg.png",
+      "PackagePath": "staticwebassets\\img\\icon-tg.png"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\icon-vk.png",
+      "PackagePath": "staticwebassets\\img\\icon-vk.png"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\icon.png",
+      "PackagePath": "staticwebassets\\img\\icon.png"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\img\\tabIcon.jpg",
+      "PackagePath": "staticwebassets\\img\\tabIcon.jpg"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\school\\3class\\РПМ-Серяк\\BlueBlotRecords\\BlueBlotRecords\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlueBlotRecords.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlueBlotRecords.props",
+      "PackagePath": "build\\BlueBlotRecords.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlueBlotRecords.props",
+      "PackagePath": "buildMultiTargeting\\BlueBlotRecords.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlueBlotRecords.props",
+      "PackagePath": "buildTransitive\\BlueBlotRecords.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,64 @@
+@model BlueBlotRecords.Models.Band
+@{
+    ViewBag.Title = "Home";
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <div class="container-fluid" id="about_us">
+        <h1 class="tx-shadow-b text-center">About Us</h1>
+        <p class="text-center tx-shadow-r">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+    </div>
+    <div class="container-fluid" id="join_us">
+        <h1 class="text-sm-center tx-shadow-b">Want to join in?</h1>
+        <p class="text-center tx-shadow-r">Describe your band, fill gaps of name, genres, members of yours and others. </p>
+        <div class="row justify-content-center">
+            
+            <form asp-action="create" asp-controller="home" class="col-5">
+              <div class="mb-3">
+                <label asp-for="NameBand" class="form-label">Band name</label>
+                <input type="text" asp-for="NameBand" class="form-control" id="BandName" aria-describedby="inputBand">
+              </div>
+              <div class="mb-3">
+                <label asp-for="MembersBand" class="form-label">Names of members</label>
+                <input type="text" asp-for="MembersBand" class="form-control" id="Names" aria-describedby="inputNames">
+              </div>
+              <div class="mb-3">
+                <label asp-for="Bio" class="form-label">Biography</label>
+                <input type="text" asp-for="Bio" class="form-control" id="InputBio" aria-describedby="inputBio">
+              </div>
+                <div class="mb-3">
+                    <label asp-for="Country" class="form-label">Country</label>
+                    <input type="text" asp-for="Country" class="form-control" id="Country" aria-describedby="inputCountry">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="FormedIn" class="form-label">Formation date</label>
+                    <input type="date" asp-for="FormedIn" class="form-control" id="FormedIn" aria-describedby="inputFormedIn">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="NumberPhone" class="form-label">Number Phone</label>
+                    <input type="number" asp-for="NumberPhone" class="form-control" id="NumberPhone" aria-describedby="inputNumberPhone">
+                </div>
+              <div class="mb-3">
+                <label asp-for="Mail" class="form-label">Contact mail</label>
+                    <input type="email" asp-for="Mail" class="form-control" id="ContactMail" aria-describedby="inputMail">
+              </div>
+                <div class="mb-3">
+                    <label asp-for="PasswordBand" class="form-label">Password</label>
+                    <input type="password" asp-for="PasswordBand" class="form-control" id="Password" aria-describedby="inputPassword">
+                </div>
+              <button type="submit" class="btn btn-primary text-end" id="liveAlertBtn">JoinIn</button>
+            </form>
+        </div>
+    </div>
+    <div id="liveAlertPlaceholder" class="col-4 text-center px-2 py-2">
+        <a href="" id="closeAlert"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+          <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+        </svg></a>
+        <p id="liveAlertPlaceholder_msg">Application successfully send! We'll contact you by mail.</p>
+    </div>
+</body>
+</html>

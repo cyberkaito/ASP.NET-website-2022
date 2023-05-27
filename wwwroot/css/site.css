@@ -1,0 +1,241 @@
+@font-face {
+    font-family: 15347;
+    src: url('../fonts/15347.ttf');
+}
+@font-face {
+    font-family: Vinque-Rg;
+    src: url('../fonts/Vinque Rg.ttf');
+}
+body {
+    font-family: Vinque-Rg;
+    background: url(../img/blue-bg.jpg) fixed;
+    background-size: cover;
+    font-size:18px;
+}
+.navbar {
+    height: 70px;
+    /*background: rgba(0, 0, 0, 0.66);*/
+    background: url('../img/Mask group (1).jpg') fixed;
+    background-repeat:no-repeat;
+    background-size:contain;
+    border-bottom: 2px solid rgba(0, 14, 108, 0.87);
+}
+.navbar a{
+    color:whitesmoke;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+button.navbar-toggler{
+    background:rgba(0, 22, 171, 0.80)
+}
+#bands {
+    padding: 10px 20px;
+    margin:3em auto;
+}
+#search{
+    width:70%;
+    margin: 20px auto;
+}
+.card{
+    margin:10px 0px;
+    width:18rem;
+}
+.card img {
+        border-bottom: 3px solid rgba(0, 14, 108, 0.87);
+    }
+#btn_search{
+    margin:0px 20px;
+}
+#footer {
+    padding: 0px;
+    margin: 0px;
+    border-top: 2px solid rgba(0, 14, 108, 0.87);
+    background: rgba(0, 0, 0, 0.66);
+}
+#about_us{
+    margin-top:7.5rem !important;
+}
+#join_us {
+    margin: 3em auto;
+}
+#join_us label {
+    color: whitesmoke;
+    text-shadow: rgba(128 0 0.6) 2px 1px 0;
+}
+#join_us .col-5{
+    margin-bottom:2rem;
+}
+.tx-shadow-b {
+    color: whitesmoke;
+    text-shadow: rgba(0, 14, 108, 0.8) 4px 1px 0;
+}
+.tx-shadow-r {
+    color: whitesmoke;
+    text-shadow: rgba(128 0 0.6) 2px 1px 0;
+}
+#liveAlertPlaceholder {
+    visibility: hidden;
+    position: fixed;
+    background: rgb(230, 230, 230,0.95);
+    top: 30%;
+    left: 33%;
+}
+.animation {
+    display:initial;
+    color: black;
+    text-shadow: 0.1px 1px 0 rgb(255 100 0);
+    animation: Transform 15s forwards infinite;
+}
+.carousel-item img {
+    margin: 6rem auto;
+}
+#div_band{
+    margin:10rem auto !important;
+}
+#bio {
+    border-left: 2px solid rgba(0, 14, 108, 0.87);
+    padding:0px 3rem;
+}
+#bio p{
+    text-align:justify;
+}
+#mailing{
+    color:white;
+}
+#LogInAlert{
+    margin-top:150px;
+    color: whitesmoke;
+    font-size:70%;
+}
+    #LogInAlert form {
+        background: rgba(33, 30, 26,0.95);
+        padding: 30px 10px;
+    }
+    #LogInAlert input{
+        padding:1.5vh;
+    }
+#profileWindow {
+    background: rgba(255,255,255,0.7);
+    border-radius: 10px;
+    margin: auto 10rem;
+    margin-top: 120px;
+    overflow: hidden;
+}
+    #profileWindow .col-lg-5 .row {
+        margin: 2rem auto;
+    }
+        #profileWindow .col-lg-5 .row .btn {
+            margin:0.2rem;
+        }
+        #profileWindow .img-thumbnail {
+            overflow: hidden;
+            border-radius: 100%;
+            width: 15.5rem;
+            border: 3px solid rgba(0, 14, 108, 0.87);
+            height: 15rem;
+            padding: 0px;
+        }
+        #profileWindow .img-thumbnail img{
+            width:100%;
+            height:100%;
+            transform:scale(1.2);
+        }
+#services{
+    margin-top:9rem;
+    
+}
+    #services .card {
+        width: 100% !important;
+        background:rgb(255, 255, 255, 0.9)
+    }
+#cart{
+    margin-top:100px;
+}
+#cart .card{
+    margin:0px;
+    border:none;
+    border-radius:0px;
+    width:100%;
+}
+        @keyframes Transform {
+            10% {
+        text-shadow: 0.1px 1.00px 0 rgb(255, 140, 0), 0.3px 1.75px 0 rgb(255, 80, 0), 0.5px 2.50px 0 rgb(255, 60, 0), 0.7px 3.25px 0 rgb(255, 80, 0), 0.9px 4.00px 0 rgb(255, 100, 0);
+    }
+
+    20% {
+        text-shadow: 0.1px 1.00px 0 rgb(255, 140, 0), 0.3px 1.75px 0 rgb(255, 160, 0), 0.5px 2.50px 0 rgb(255, 180, 0), 0.7px 3.25px 0 rgb(255, 200, 0), 0.9px 4.00px 0 rgb(255, 240, 0);
+    }
+
+    30% {
+        text-shadow: 0.1px 1.00px 0 rgb(0, 255, 0), 0.3px 1.75px 0 rgb(0, 255, 25), 0.5px 2.50px 0 rgb(0, 255, 50), 0.7px 3.25px 0 rgb(0, 255, 75), 0.9px 4.00px 0 rgb(0, 255, 100);
+    }
+
+    40% {
+        text-shadow: 0.1px 1.00px 0 rgb(0, 255, 125), 0.3px 1.75px 0 rgb(0, 255, 150), 0.5px 2.50px 0 rgb(0, 255, 175), 0.7px 3.25px 0 rgb(0, 255, 200), 0.9px 4.00px 0 rgb(0, 255, 225);
+    }
+
+    50% {
+        text-shadow: 0.1px 1.00px 0 rgb(0, 255, 255), 0.3px 1.75px 0 rgb(0, 225, 255), 0.5px 2.50px 0 rgb(0, 200, 255), 0.7px 3.25px 0 rgb(0, 175, 255), 0.9px 4.00px 0 rgb(0, 150, 255);
+    }
+
+    60% {
+        text-shadow: 0.1px 1.00px 0 rgb(0,125, 255), 0.3px 1.75px 0 rgb(0,100, 255), 0.5px 2.50px 0 rgb(0,75, 255), 0.7px 3.25px 0 rgb(0,50, 255), 0.9px 4.00px 0 rgb(0,25, 255);
+    }
+
+    70% {
+        text-shadow: 0.1px 1.00px 0 rgb(0, 0,255), 0.3px 1.75px 0 rgb(25, 0,255), 0.5px 2.50px 0 rgb(50, 0, 255), 0.7px 3.25px 0 rgb(75, 0, 255), 0.9px 4.00px 0 rgb(100,0, 255);
+    }
+
+    80% {
+        text-shadow: 0.1px 1.00px 0 rgb(125,0, 255), 0.3px 1.75px 0 rgb(150,0, 255), 0.5px 2.50px 0 rgb(175,0, 255), 0.7px 3.25px 0 rgb(200,0, 255), 0.9px 4.00px 0 rgb(225,0, 255);
+    }
+
+    90% {
+        text-shadow: 0.1px 1.00px 0 rgb(255,0, 255), 0.3px 1.75px 0 rgb(255,0, 225), 0.5px 2.50px 0 rgb(255,0, 125), 0.7px 3.25px 0 rgb(255,0, 100), 0.9px 4.00px 0 rgb(255,0, 75);
+    }
+
+    100% {
+        text-shadow: 0.1px 1.00px 0 rgb(255, 0, 0), 0.3px 1.75px 0 rgb(255, 40, 0), 0.5px 2.50px 0 rgb(255, 60, 0), 0.7px 3.25px 0 rgb(255, 80, 0), 0.9px 4.00px 0 rgb(255, 100, 0);
+    }
+}
+@media screen and (max-width: 990px) {
+    html {
+        font-size: 16px;
+    }
+    .navbar-nav {
+        background: #212529;
+    }
+    #bio {
+        border-left:none;
+        padding:0px 1rem;
+    }
+    .col-md-9 {
+        margin: auto;
+    }
+    .col-md-9 p {
+        font-size: 25px;
+        
+    }
+    #mailing{
+        text-align:center;
+    }
+    .card{
+        margin:10px auto;
+    }
+    .carousel-item img{
+        width:70%;
+    }
+    #footer img{
+        height:2rem;
+    }
+    #footer p{
+        font-size:2vh;
+    }
+}
+
+@media screen and (max-width: 1480px) {
+    .navbar {
+        background: none;
+    }
+}
